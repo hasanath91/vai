@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="1" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="0">
+    <testcase classname="uber booking feature" name="surfing e-commerce website" time="0">
+        <failure message="The scenario has pending or undefined step(s)">
+            <![CDATA[Given user open desired browesr.............................................undefined
+And user nevegate express website...........................................undefined
+When user enter into men categories.........................................undefined
+And user click on t-shirt...................................................undefined
+Then user click on any shirt................................................undefined
+]]>
+        </failure>
+    </testcase>
+</testsuite>
